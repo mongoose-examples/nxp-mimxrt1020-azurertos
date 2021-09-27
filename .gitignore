@@ -1,0 +1,7 @@
+/Debug/
+.DS_Store
+.vscode
+build/
+firmware.*
+MIMXRT1020-azure-simple-http-server LinkServer Debug.launch
+.settings/
